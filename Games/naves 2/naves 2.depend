@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1357602810 source:c:\users\admin\downloads\documents\examples++\games\naves 2\libgame.cpp
+	"libgame.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1357602810 c:\users\admin\downloads\documents\examples++\games\naves 2\libgame.h
+
+1470387943 source:c:\users\admin\downloads\documents\examples++\games\naves 2\main.cpp
+	<stdio.h>
+	<conio.h>
+	"libgame.h"
+

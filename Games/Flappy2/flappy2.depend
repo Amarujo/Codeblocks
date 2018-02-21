@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1357599210 source:c:\users\admin\downloads\documents\examples++\games\flappy2\libgame.cpp
+	"libgame.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1357599210 c:\users\admin\downloads\documents\examples++\games\flappy2\libgame.h
+
+1467986846 source:c:\users\admin\downloads\documents\examples++\games\flappy2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"libgame.h"
+

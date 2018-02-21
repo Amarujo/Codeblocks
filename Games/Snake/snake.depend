@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1357602810 source:c:\users\admin\downloads\documents\examples++\games\snake\libgame.cpp
+	"libgame.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1357602810 c:\users\admin\downloads\documents\examples++\games\snake\libgame.h
+
+1468207647 source:c:\users\admin\downloads\documents\examples++\games\snake\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"libgame.h"
+

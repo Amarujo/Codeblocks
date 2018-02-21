@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1357610010 source:c:\users\david\desktop\libgame for c++\libgame\libgame.cpp
+	"libgame.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1357610010 c:\users\david\desktop\libgame for c++\libgame\libgame.h
+
+1357611015 source:c:\users\david\desktop\libgame for c++\libgame\main.cpp
+	<stdio.h>
+	"libgame.h"
+
